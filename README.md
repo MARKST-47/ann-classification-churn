@@ -32,8 +32,7 @@ The app then uses these inputs to predict:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/churn-prediction-app.git
-   cd churn-prediction-app
+   git clone https://github.com/MARKST-47/ann-classification-churn.git
    ```
 
 2. **Install the required dependencies:**
